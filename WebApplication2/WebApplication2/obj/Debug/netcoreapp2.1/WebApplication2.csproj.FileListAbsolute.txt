@@ -1,0 +1,14 @@
+C:\Coding\DotNet\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+C:\Coding\DotNet\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+C:\Coding\DotNet\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+C:\Coding\DotNet\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Coding\DotNet\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Coding\DotNet\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
